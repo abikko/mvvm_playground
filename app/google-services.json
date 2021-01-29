@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155928300031",
+    "project_id": "playground-d1717",
+    "storage_bucket": "playground-d1717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155928300031:android:104b3752a07c35082cbfca",
+        "android_client_info": {
+          "package_name": "kz.edu.astanait.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155928300031-nfgbcmtnmblrlfktrp8vq06bh2m5a6qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcO66CKg_dBAxXqvhNOicdqSTZdxt6XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155928300031-nfgbcmtnmblrlfktrp8vq06bh2m5a6qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
